@@ -49,5 +49,29 @@ in order to apply to this project, so we chose to just display the training mode
 # Tableau
 
 Tableau was chosen to help illustrate what exists within the DataSet itself currently. We wanted to clearly illustrate how the records span across the states themselves
-and how the varied within a year. These graphs are included in the file called 
+and how the varied within a year. These graphs are included on the public profile of the project mate who created these graphs, there profile will be linked here:https://public.tableau.com/app/profile/marilu.montalvo/vizzes
+
+Below are screenshots of some of the Graphs themselves.
+
+![image](https://github.com/user-attachments/assets/4fdb26c3-1fae-4379-8b30-12e08014396a)
+![image](https://github.com/user-attachments/assets/6896a0d7-eae2-4aca-9541-ddbb7a694d1c)
+
+
+![image](https://github.com/user-attachments/assets/c57471b2-71a5-4830-a02a-a740d8d1acf9)
+![image](https://github.com/user-attachments/assets/6daa1550-4d82-4172-8cc6-9bd16b31e87e)
+
+
+![image](https://github.com/user-attachments/assets/70b0c52f-adaa-458b-a181-8e530629fedb)
+
+
+# Conclusion / Future thoughts
+
+At the end of this Project we realize that there is much to be worked upon and impoved however the best project is always one that can be improved and improved.
+Some take aways we believe from this project are that In-Person learning settings appear to be more dominate in the majority of the United States, which means 
+our DataSet was heavily learning towards In-Person over the other two modalities, to fix this we think we could fuse Hybrid and Remote together since we primarily
+want to observe any remote classroom settings against pure In-person settings. We believe for future research we should include other countries in the world 
+in order to have a more global array of data to truly determine the more dominate learning modality, along with maybe including graduation rates for future questions.
+
+
+
 
